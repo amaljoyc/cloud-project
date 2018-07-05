@@ -5,3 +5,4 @@ set of spring cloud micro-services
 - java 8
 - spring boot 2
 - netflix eureka as discovery
+- spring cloud config server
