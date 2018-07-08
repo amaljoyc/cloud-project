@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class SampleController {
 
-    @Value("${some.property:amal}")
+    @Value("${some.property}")
     private String someProperty;
 
     @RequestMapping("/")
