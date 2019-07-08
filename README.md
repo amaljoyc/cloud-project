@@ -6,3 +6,4 @@ set of spring cloud micro-services
 - spring boot 2
 - netflix eureka as discovery
 - spring cloud config server
+- spring cloud oauth2
