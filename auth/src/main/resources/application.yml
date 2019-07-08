@@ -13,5 +13,5 @@ eureka:
 security:
   oauth2:
     client:
-      client-id: myclient
-      client-secret: myclientsecret
+      client-id: auth
+      client-secret: authsecret
